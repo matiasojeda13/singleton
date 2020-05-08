@@ -12,7 +12,7 @@ una propiedad de clase `Instance` de tipo `Greeter`.
 Además la clase `Greeter` implementa un método de instancia `void SayHiToTheWorld()` que es el verdadero propósito de esta
 clase.
 
-### Deafío
+### Desafío
 
 Usando tipos genéricos implementen un tipo `Singleton<T>` genérico cuyo tipo parámetro pueda ser cualquier clase; en
 particular `Greeter`, es decir, el tipo construido quedaría `Singleton<Greeter>`.
